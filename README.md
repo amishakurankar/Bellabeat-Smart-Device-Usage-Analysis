@@ -30,8 +30,7 @@ hourlySteps_merged.csv
 
 hourlyCalories_merged.csv
 
-You can explore the project on Kaggle also:
-
+**You can explore the project on Kaggle also:**
 https://www.kaggle.com/datasets/amishadkurankar/fitbase-data
 
 **Source:**
